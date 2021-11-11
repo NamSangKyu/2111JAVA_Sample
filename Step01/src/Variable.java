@@ -25,6 +25,10 @@ public class Variable {
 		num = 30;//변수 num에 30을 저장
 		num = 20;//변수 num에 20을 저장
 		System.out.println(num);//num이 저장하고 있는 값 20을 꺼내서 출력
+					   
+					   //초기화는 데이터를 저장하는 행위
+		int score = 79;//변수를 선언과 동시에 초기화
+		System.out.println(score);
 	}
 
 }
